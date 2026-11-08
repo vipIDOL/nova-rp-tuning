@@ -84,6 +84,7 @@ git push -u origin main
 |---|---|
 | `index.html` | весь калькулятор: разметка, стили, скрипт, шрифт, карта |
 | `og.png` | обложка 1200×630 для превью ссылки в Discord/Telegram |
+| `mark.png`, `favicon.png`, `apple-touch-icon.png` | иконка CERBER для шапки, вкладки и мобильного экрана |
 | `404.html` | страница ошибки в стиле сайта |
 | `robots.txt` | разрешает индексацию |
 | `LICENSE` | условия использования (© AID Cerber) |
