@@ -1,0 +1,12 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Логи и временные файлы
+*.log
+*.tmp
+
+# Счётчик мини-сервера
+server/counter.txt
+server/counter.txt.tmp
